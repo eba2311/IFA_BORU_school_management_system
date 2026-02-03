@@ -16,7 +16,8 @@
 8. [Usage Guide](#usage-guide)
 9. [Security Features](#security-features)
 10. [API Documentation](#api-documentation)
-11. [Troubleshooting](#troubleshooting)
+11.screenshots 
+12.  [Troubleshooting](#troubleshooting)
 
 ---
 
@@ -580,3 +581,12 @@ This project is developed for IFA BORU AMURU Secondary School.
 **Last Updated:** January 31, 2026  
 **Developer:** GitHub Copilot  
 **Status:** ✅ Production Ready
+##screenshot 
+<img width="1881" height="727" alt="image" src="https://github.com/user-attachments/assets/71b29bf1-9eee-42b2-9801-cd4c86020d93" />
+<img width="1876" height="812" alt="image" src="https://github.com/user-attachments/assets/9992a811-5e51-4c9f-9b75-a7335e822cc4" />
+<img width="1908" height="762" alt="image" src="https://github.com/user-attachments/assets/23c27a4f-a69c-4ab5-8df9-10c39eadf7f2" />
+<img width="1867" height="839" alt="image" src="https://github.com/user-attachments/assets/6ad0c093-0d19-4ff8-899f-2317f8042646" />
+<img width="1890" height="821" alt="image" src="https://github.com/user-attachments/assets/938feb3c-a953-4f20-890c-b5b50b52f482" />
+
+
+
