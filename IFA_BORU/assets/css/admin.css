@@ -1,0 +1,60 @@
+/* 
+ * ============================================
+ * IFA BORU AMURU SMS - Admin Panel Styles
+ * ============================================
+ */
+
+/* Admin specific styles are included in the header.php inline styles */
+/* This file can be used for additional admin customizations */
+
+.admin-header {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 15px 0;
+    margin-bottom: 20px;
+}
+
+.admin-breadcrumb {
+    background: #f8f9fa;
+    padding: 10px 15px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+
+.admin-breadcrumb a {
+    color: #667eea;
+    text-decoration: none;
+}
+
+.admin-breadcrumb a:hover {
+    text-decoration: underline;
+}
+
+.quick-stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 15px;
+    margin-bottom: 25px;
+}
+
+.quick-stat {
+    background: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+.quick-stat .number {
+    font-size: 24px;
+    font-weight: bold;
+    color: #667eea;
+}
+
+.quick-stat .label {
+    font-size: 12px;
+    color: #666;
+    text-transform: uppercase;
+    margin-top: 5px;
+}
