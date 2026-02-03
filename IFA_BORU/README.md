@@ -627,13 +627,18 @@ This project is developed for IFA BORU AMURU Secondary School.
 <img width="960" height="366" alt="image" src="https://github.com/user-attachments/assets/d428f70a-b20c-4d71-bddf-cc08966e995b" />
 
 
+<img width="960" height="358" alt="image" src="https://github.com/user-attachments/assets/df2d7ff9-c53d-40ed-8eb2-8923e78d0bba" />
+
+<img width="1919" height="730" alt="image" src="https://github.com/user-attachments/assets/ddc26152-2ce9-4270-8287-40462169b080" />
 
 
 
+<img width="1901" height="846" alt="image" src="https://github.com/user-attachments/assets/680379eb-1178-4431-8010-1a5deb3f00ac" />
 
 
+<img width="1919" height="723" alt="image" src="https://github.com/user-attachments/assets/12ec90ca-df0f-4b05-b4de-c4249cb86409" />
 
-
+<img width="1919" height="723" alt="image" src="https://github.com/user-attachments/assets/6e02d9a2-fb4a-4819-801f-dfcf7a7d5ff2" />
 
 
 
