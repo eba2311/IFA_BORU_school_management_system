@@ -583,10 +583,58 @@ This project is developed for IFA BORU AMURU Secondary School.
 **Status:** ✅ Production Ready
 ##screenshot 
 <img width="1881" height="727" alt="image" src="https://github.com/user-attachments/assets/71b29bf1-9eee-42b2-9801-cd4c86020d93" />
+
 <img width="1876" height="812" alt="image" src="https://github.com/user-attachments/assets/9992a811-5e51-4c9f-9b75-a7335e822cc4" />
+
 <img width="1908" height="762" alt="image" src="https://github.com/user-attachments/assets/23c27a4f-a69c-4ab5-8df9-10c39eadf7f2" />
+
 <img width="1867" height="839" alt="image" src="https://github.com/user-attachments/assets/6ad0c093-0d19-4ff8-899f-2317f8042646" />
+
 <img width="1890" height="821" alt="image" src="https://github.com/user-attachments/assets/938feb3c-a953-4f20-890c-b5b50b52f482" />
+
+<img width="1919" height="831" alt="image" src="https://github.com/user-attachments/assets/62a15440-5888-468d-a4fd-754ed428a8b3" />
+
+<img width="1910" height="855" alt="image" src="https://github.com/user-attachments/assets/f2ca9641-ddd7-48bb-b9d5-596d5f7b882c" />
+
+<img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/dc90dd5b-106f-4997-a2e2-86429849bc1f" />
+
+<img width="1909" height="815" alt="image" src="https://github.com/user-attachments/assets/345e4c01-c8f0-4076-a310-14a8a3ad24e2" />
+
+
+<img width="1849" height="836" alt="image" src="https://github.com/user-attachments/assets/b87e4bc4-f1aa-4e26-b4c9-f75b9c17bdab" />
+
+
+<img width="1842" height="821" alt="image" src="https://github.com/user-attachments/assets/8327647c-8147-4ecf-9d83-49f1e81e1819" />
+
+
+<img width="1903" height="860" alt="image" src="https://github.com/user-attachments/assets/da19d6f1-7164-4c27-86ba-1fd5fdb368c0" />
+
+
+<img width="1897" height="854" alt="image" src="https://github.com/user-attachments/assets/3a6f6c10-4c28-44f4-97a4-91e66a55aca6" />
+
+
+
+<img width="1918" height="842" alt="image" src="https://github.com/user-attachments/assets/57ad01fe-f82c-464a-bdc1-68464f4352ad" />
+
+
+<img width="1916" height="826" alt="image" src="https://github.com/user-attachments/assets/1589e913-c096-4cba-9b30-4eedd3cbeba2" />
+
+
+
+<img width="683" height="404" alt="image" src="https://github.com/user-attachments/assets/38f526de-13fb-428e-8596-f7fca58bdaec" />
+
+
+<img width="960" height="366" alt="image" src="https://github.com/user-attachments/assets/d428f70a-b20c-4d71-bddf-cc08966e995b" />
+
+
+
+
+
+
+
+
+
+
 
 
 
