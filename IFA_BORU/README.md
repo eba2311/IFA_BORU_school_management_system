@@ -640,6 +640,7 @@ This project is developed for IFA BORU AMURU Secondary School.
 
 <img width="1919" height="723" alt="image" src="https://github.com/user-attachments/assets/6e02d9a2-fb4a-4819-801f-dfcf7a7d5ff2" />
 
+<img width="947" height="390" alt="image" src="https://github.com/user-attachments/assets/21b70d16-5607-42a4-a5ff-604dd06722c1" />
 
 
 
